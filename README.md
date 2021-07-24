@@ -4,7 +4,7 @@
 
 ## Sobre 📕
 
-Projeto desenvolvido na semana do Javascript organizado pela B7web. Foi implementado um sistema básico de quiz utilizando HTML,CSS e JS.
+Projeto desenvolvido na semana do Javascript organizado pela B7web. Foi implementado um sistema básico de quiz utilizando HTML,CSS e JS. Estou Aproveitando a semana para rever uns conceitos de JS.
 
 ---
 
